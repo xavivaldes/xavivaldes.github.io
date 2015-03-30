@@ -44,7 +44,7 @@ function loadJSON($scope) {
       {
         "dates":"2003 - 2006",
         "titleOfQualification":"Bachelor’s Degree in Computer Science Engineering",
-        "institution":"at La Salle (URL Univeasdfasdfrsitat Ramon Llull)"
+        "institution":"at La Salle (URL Universitat Ramon Llull)"
       }
       ],
       "experiences":[
