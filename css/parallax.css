@@ -1,53 +1,55 @@
 .parallax {
-  height: 100vh;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-  background-image: url("../img/orionnebula.jpg");
-  text-align: center;
-  color: white;
+    height: 100vh;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url("../img/xavi_indonesia.jpg");
+    text-align: center;
+    color: white;
 }
 
 .parallax .title {
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
 }
 
 .parallax #imgfoot {
-  top: 0px;
-  right: 0px;
-  position: absolute;
-  font-size: 10px;
+    top: 0;
+    right: 0;
+    position: absolute;
+    font-size: 10px;
 }
 
 .parallax #imgfoot a {
-  color: white;
+    color: white;
 }
 
 .color-layer {
-  height: 100%;
-  width: 100%;
-  background-color: rgba(34, 163, 159, 0);
+    height: 100%;
+    width: 100%;
+    background-color: rgba(34, 163, 159, 0);
 }
 
-.parallax h1, .parallax h2{
-  color: white;
-  margin-top: 0px;
+.parallax h1, .parallax h2 {
+    color: white;
+    margin-top: 0;
 }
 
 .parallax h1 {
-  font-size: 73px;
-  padding-bottom: 20px;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.35);
-  display: inline-block;
-  font-weight: 700;
-  font-family: "Font Bold", sans-serif;
+    font-size: 73px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.35);
+    display: inline-block;
+    font-weight: 300;
+    font-family: "Barlow", sans-serif;
+    text-shadow: 0 0 30px black;
 }
 
 .parallax h2 {
-  font-weight: 300;
-  font-family: "Font Light", sans-serif;
-  font-size: 38px;
+    font-weight: 100;
+    font-family: "Barlow", sans-serif;
+    font-size: 38px;
+    text-shadow: 0 0 5px black;
 }

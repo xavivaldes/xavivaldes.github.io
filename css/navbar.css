@@ -1,9 +1,9 @@
 .navbar {
-  opacity: 0;
+    opacity: 0;
 }
 
 .navbar.center ul {
-  left: 50%;
-  transform: translateX(-50%);
-  position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
 }

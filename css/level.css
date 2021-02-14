@@ -1,20 +1,20 @@
 .level {
-  float: right;
+    float: right;
 }
 
 .point {
-  display: inline-block;
-  border-radius: 50%;
-  width: 14px;
-  height: 14px;
-  margin: 0px 2px 0px 2px;
+    display: inline-block;
+    border-radius: 50%;
+    width: 14px;
+    height: 14px;
+    margin: 0px 2px 0px 2px;
 }
 
 .point.empty {
-  //border: 1px solid #CC6B55;
-  background: none repeat scroll 0 0 #dfe0e0;
+/ / border: 1 px solid #CC6B55;
+    background: none repeat scroll 0 0 #dfe0e0;
 }
 
 .point.fill {
-  background: none repeat scroll 0 0 #FF6B55;
+    background: none repeat scroll 0 0 #FF6B55;
 }

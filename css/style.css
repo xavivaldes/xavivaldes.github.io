@@ -2,74 +2,74 @@
 **  GENERAL  **
 **************/
 body {
-  font-family: "Font Light", sans-serif !important;
-  font-style: normal;
-  font-weight: 300;
-  text-align: justify;
-  text-justify: inter-word;
-  background-color: white;
-  color: #5B6060;
-  font-size: 18px;
+    font-family: "Font Light", sans-serif !important;
+    font-style: normal;
+    font-weight: 300;
+    text-align: justify;
+    text-justify: inter-word;
+    background-color: white;
+    color: #5B6060;
+    font-size: 18px;
 }
 
 .grey {
-  background-color: #FAF8F6;
+    background-color: #FAF8F6;
 }
 
 h1, h2, h3 {
-  color: #FF6B55;
+    color: #FF6B55;
 }
 
 h2 {
-  font-size: 64px;
-  text-align: center;
+    font-size: 64px;
+    text-align: center;
 }
 
 h4 {
-  font-family: "Font Semibold", sans-serif;
+    font-family: "Font Semibold", sans-serif;
 }
 
 ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 .container {
-  max-width: 750px;
-  padding-bottom: 100px;
+    max-width: 750px;
+    padding-bottom: 100px;
 }
 
 p, ul {
-  text-shadow: #333 0px 0px 0px;
+    text-shadow: #333 0px 0px 0px;
 }
 
 /**************
 **  HEADERS  **
 **************/
 .section-header {
-  border-bottom: 1px solid rgba(100, 100, 100, 0.35);
-  padding-bottom: 20px;
-  margin-bottom: 50px;
-  margin-top: 50px;
+    border-bottom: 1px solid rgba(100, 100, 100, 0.35);
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 /**************
 **  PROFILE  **
 **************/
 #container-me {
-  text-align: center;
-  //margin-right: 50px;
+    text-align: center;
+/ / margin-right: 50 px;
 }
 
 #me {
-  display: inline;
+    display: inline;
 }
 
 
 @media (max-width: 767px) {
-  #profile-info {
-    text-align: center;
-    margin-top: 20px;
-  }
+    #profile-info {
+        text-align: center;
+        margin-top: 20px;
+    }
 }
