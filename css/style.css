@@ -2,9 +2,9 @@
 **  GENERAL  **
 **************/
 body {
-    font-family: "Font Light", sans-serif !important;
+    font-family: "Source Sans Pro", sans-serif !important;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 200;
     text-align: justify;
     text-justify: inter-word;
     background-color: white;
@@ -18,6 +18,11 @@ body {
 
 h1, h2, h3 {
     color: #FF6B55;
+    font-weight: 200;
+}
+
+h3 {
+    font-weight: 300;
 }
 
 h2 {
@@ -26,7 +31,8 @@ h2 {
 }
 
 h4 {
-    font-family: "Font Semibold", sans-serif;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: 400;
 }
 
 ul {
